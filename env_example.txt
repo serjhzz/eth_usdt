@@ -1,0 +1,2 @@
+TABLE_NAME='table'
+ENGINE='postgresql://your_login:your_password@localhost:5432/your_login'
